@@ -232,7 +232,7 @@ In the script, I parsed the log and put it into fields on Kibana, so we can filt
 
 ## 4. Software version
 
-|  Software |  Version |
+| Software | Version |
 |---|---|
 | AWS CLI | 2.7.12 |
 | Elasticsearch | 8.2.3 |
@@ -242,15 +242,9 @@ In the script, I parsed the log and put it into fields on Kibana, so we can filt
 ## 5. Reference information
 
 - [https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_LogAccess.Procedural.UploadtoCloudWatch.html](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_LogAccess.Procedural.UploadtoCloudWatch.html)
-
 - [https://aws.amazon.com/premiumsupport/knowledge-center/rds-mysql-logs](https://aws.amazon.com/premiumsupport/knowledge-center/rds-mysql-logs)
-
 - [https://docs.aws.amazon.com/lambda/latest/dg/getting-started.html](https://docs.aws.amazon.com/lambda/latest/dg/getting-started.html)
-
 - [https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
-
 - [https://docs.aws.amazon.com/AmazonCloudWatch/latest/logs/SubscriptionFilters.html](https://docs.aws.amazon.com/AmazonCloudWatch/latest/logs/SubscriptionFilters.html)
-
 - [https://serverfault.com/questions/446094/aws-rds-mysql-slow-query-log](https://serverfault.com/questions/446094/aws-rds-mysql-slow-query-log)
-
 - [https://rungutan.com/blog/monitor-aws-rds-sql-logs](https://rungutan.com/blog/monitor-aws-rds-sql-logs)
